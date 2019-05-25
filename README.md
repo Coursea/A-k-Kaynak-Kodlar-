@@ -1,4 +1,4 @@
-# Açıkk-Kaynak-Kodlar-
+# Açık-Kaynak-Kodlar-
 COURSEA Uygulamasına ait resmi algoritmalar ve kodlar buradan yayınlanmaktadır.
 
 Bu algoritmalar kişisel projelerde kullanılabilir.
